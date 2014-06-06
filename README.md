@@ -8,12 +8,13 @@ A simple starter sample showing how to use Grunt task runner and Compass/Sass to
 * Grunt
 * Ruby
 * Compass
-* 
 
 ## Resources
 
 * [Compass and Sass in Action](http://www.manning.com/netherland/)
   * Save 37% on the Book: (Currently In Beta) use ```sasscomp37``` promo code (2014-06-06)
+* [Sass Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+* [Compass Reference](http://compass-style.org/reference/compass/)
 
 ### Quickstart
 
